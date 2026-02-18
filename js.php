@@ -29,7 +29,10 @@ $cars_obj = [
     
 
 
-print_r($cars_obj)
+print_r($cars_obj);
+echo "<br>";
 
+$car=["mehran","audi","BMW","CIVIC"];
+print_r($car);
 
 ?>
